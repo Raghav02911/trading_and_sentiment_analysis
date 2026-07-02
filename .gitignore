@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Output charts (optional - remove if you want to track charts)
+charts/
+
+# OS
+.DS_Store
+Thumbs.db
