@@ -1,24 +1,24 @@
-# 📊 Bitcoin Sentiment vs. Trader Performance Analysis
+# Bitcoin Sentiment vs. Trader Performance Analysis
 
 > **Primetrade.ai Data Science Assignment**  
 > Exploring the relationship between Bitcoin market sentiment (Fear & Greed Index) and real trader performance data from Hyperliquid.
 
 ---
 
-## 🧠 Project Overview
+##Project Overview
 
 This project investigates how market sentiment — measured by the **Bitcoin Fear & Greed Index** — influences trader behaviour and performance on the **Hyperliquid** decentralised exchange.
 
 By merging ~211,000 trade records with daily sentiment classifications, we uncover hidden patterns in:
-- 📈 Profitability across sentiment regimes
-- 🔄 Long vs. Short positioning shifts
-- 💸 Trade sizing and volume behaviour
-- 🏆 Top-performer vs. underperformer strategies
-- 💡 Actionable trading strategy insights
+- Profitability across sentiment regimes
+- Long vs. Short positioning shifts
+- Trade sizing and volume behaviour
+- Top-performer vs. underperformer strategies
+- Actionable trading strategy insights
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 trader_and_sentiment_analysis/
@@ -32,7 +32,7 @@ trader_and_sentiment_analysis/
 
 ---
 
-## 📦 Datasets
+## Datasets
 
 ### 1. Bitcoin Fear & Greed Index (`fear_greed_index.csv`)
 | Column | Description |
@@ -59,7 +59,7 @@ trader_and_sentiment_analysis/
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
 | Metric | Best Sentiment | Worst Sentiment |
 |---|---|---|
@@ -79,7 +79,7 @@ trader_and_sentiment_analysis/
 
 ---
 
-## 💡 Strategy Recommendations
+## Strategy Recommendations
 
 1. **Ride the Greed wave:** Enter long positions during Greed phases for statistically higher PnL and win rates.
 2. **Reduce size in Fear:** Traders tend to over-size in Fear — smaller, more disciplined sizing may improve risk-adjusted returns.
@@ -88,7 +88,7 @@ trader_and_sentiment_analysis/
 
 ---
 
-## 🚀 Running the Notebook
+## Running the Notebook
 
 ### Prerequisites
 
@@ -111,7 +111,7 @@ jupyter notebook trader_and_sentiment_analysis.ipynb
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 |---|---|
@@ -124,7 +124,7 @@ jupyter notebook trader_and_sentiment_analysis.ipynb
 
 ---
 
-## 👤 Author
+## Author
 
 **Raghav**  
 Submitted as part of the **Primetrade.ai Data Science Hiring Assignment**
