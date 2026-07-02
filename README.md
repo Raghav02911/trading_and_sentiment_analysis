@@ -68,7 +68,7 @@ trader_and_sentiment_analysis/
 | Total Volume | **Fear** ($483M) | Extreme Greed ($124M) |
 | Avg Trade Size | **Fear** ($7,816) | Extreme Greed ($3,112) |
 
-### 📌 Notable Insights
+### Notable Insights
 
 - **Traders go contrarian in Greed:** During Greed/Extreme Greed, ~55% of position opens are **Short**, while during Extreme Fear, ~69% are **Long**.
 - **Fear drives volume:** Traders are most active (by count and size) during Fear periods — possibly bargain hunting.
